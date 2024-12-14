@@ -102,3 +102,12 @@ let result = 1 + 2 * 3 + 4 ** 2;
 
 console.log(result);
 */
+
+// HOW TO ACCEPT USER INPUT
+/*
+    1. Easy Way - window prompt
+    2. Professional Way- HTML Textbox
+*/
+
+
+
